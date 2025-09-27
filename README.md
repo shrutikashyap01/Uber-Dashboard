@@ -23,11 +23,6 @@ Here’s a quick look at the dashboard in action 👇
 
 ![Dashboard Demo](images/uber.Dasboard.gif)  
 
-*(If the GIF doesn’t load, you can check the screenshots in the `images/` folder.)*  
-
-## 📷 Dashboard Preview
-![Dashboard Page 1](images/dashboard_page1.png)  
-![Dashboard Page 2](images/dashboard_page2.png)  
 
 ## 📂 Files in this Repo
 - `images/` → Contains screenshots & demo GIF of the dashboard.  
